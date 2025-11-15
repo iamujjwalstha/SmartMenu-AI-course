@@ -1,0 +1,11 @@
+dish,ingredients,category,price,description
+Margherita Pizza,"tomato,mozzarella,basil",Main,8.5,"Classic pizza with tomato sauce and mozzarella."
+Spicy Chicken Wrap,"chicken,lettuce,tomato,hot sauce",Main,7.0,"Grilled chicken with spicy sauce in a wrap."
+Vegan Buddha Bowl,"quinoa,lettuce,avocado,chickpeas",Main,9.0,"Healthy bowl with quinoa and veggies."
+Caesar Salad,"lettuce,croutons,parmesan,chicken",Starter,5.5,"Crisp lettuce with Caesar dressing and chicken."
+Tomato Soup,"tomato,cream,basil",Starter,4.0,"Warm creamy tomato soup."
+Chocolate Brownie,"chocolate,butter,sugar,flour",Dessert,3.5,"Rich chocolate brownie."
+Pancakes,"flour,milk,egg,maple syrup",Breakfast,6.0,"Fluffy pancakes with maple syrup."
+Grilled Salmon,"salmon,lemon,butter",Main,12.0,"Pan-seared salmon with lemon butter."
+Falafel Wrap,"falafel,lettuce,tomato,tahini",Main,6.5,"Crispy falafel in a wrap with tahini sauce."
+Mango Smoothie,"mango,yogurt,honey",Beverage,4.5,"Refreshing mango smoothie."

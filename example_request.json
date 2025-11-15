@@ -1,0 +1,9 @@
+{
+  "preferences": "vegan, light, quinoa",
+  "top_n": 3,
+  "max_price": 10,
+  "dietary_exclude": [
+    "egg",
+    "milk"
+  ]
+}
