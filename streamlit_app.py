@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import streamlit as st
 import pandas as pd
 from recommender import SmartMenuRecommender
@@ -32,6 +31,7 @@ if st.button("Get Recommendations"):
             st.write(f"**Description:** {rec['description']}")
             st.write(f"Similarity score: {round(rec['score'], 3)}")
             st.markdown("---")
+
 =======
 import streamlit as st
 import pandas as pd
@@ -66,4 +66,3 @@ if st.button("Get Recommendations"):
             st.write(f"**Description:** {rec['description']}")
             st.write(f"Similarity score: {round(rec['score'], 3)}")
             st.markdown("---")
->>>>>>> c231861 (Add streamlit_app.py)
