@@ -1,6 +1,6 @@
 # SmartMenu — AI-Powered Menu Recommendation System
 
-**Summary (<=250 chars)**  
+## Summary
 Building AI course project: SmartMenu is an AI-based system that recommends dishes to restaurant customers by analyzing preferences, dietary needs, and past orders. A simple, low-cost solution for small restaurants to improve customer experience.
 
 ---
@@ -63,7 +63,5 @@ This project intentionally stays simple for beginners.
 ## Acknowledgments
 Inspired by restaurant recommendation systems, open-source tutorials, and the Building AI course examples. Thanks to public datasets and Python ML libraries such as scikit-learn and pandas.
 
-## Summary
 
-Building AI course project: SmartMenu is an AI-powered system that recommends dishes to restaurant customers by analyzing preferences, dietary needs, and past orders. A simple, low-cost solution for small restaurants to improve customer experience.
 
